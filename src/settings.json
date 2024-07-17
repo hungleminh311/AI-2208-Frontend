@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Step into the future with our engineering \u0026 development solutions. We're your winning ticket.",
+        "title": "Bet on Innovation, Win with Expertise"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Step into the future with our engineering \u0026 development solutions. We're your winning ticket.",
+        "title": "Bet on Innovation, Win with Expertise"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Step into the future with our engineering \u0026 development solutions. We're your winning ticket.",
+        "title": "Bet on Innovation, Win with Expertise"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Step into the future with our engineering \u0026 development solutions. We're your winning ticket.",
+        "title": "Bet on Innovation, Win with Expertise"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Step into the future with our engineering \u0026 development solutions. We're your winning ticket.",
+        "title": "Bet on Innovation, Win with Expertise"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Step into the future with our engineering \u0026 development solutions. We're your winning ticket.",
+        "title": "Bet on Innovation, Win with Expertise"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Step into the future with our engineering \u0026 development solutions. We're your winning ticket.",
+        "title": "Bet on Innovation, Win with Expertise"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Step into the future with our engineering \u0026 development solutions. We're your winning ticket.",
+        "title": "Bet on Innovation, Win with Expertise"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Step into the future with our engineering \u0026 development solutions. We're your winning ticket.",
+        "title": "Bet on Innovation, Win with Expertise"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Bet on Innovation, Win with Expertise",
+  "subtitle": "Step into the future with our engineering \u0026 development solutions. We're your winning ticket."
+}
